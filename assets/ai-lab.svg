@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330">
+
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#071A2B"/><stop offset=".5" stop-color="#092B55"/><stop offset="1" stop-color="#2B0A4A"/></linearGradient>
+      <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      <linearGradient id="line" x1="0" x2="1"><stop stop-color="#00E5FF"/><stop offset=".5" stop-color="#8A5CFF"/><stop offset="1" stop-color="#FF4FD8"/></linearGradient>
+    </defs><rect width="1200" height="330" rx="28" fill="url(#bg)"/>
+<rect x="3" y="3" width="1194" height="324" rx="25" fill="#0D1117" opacity=".88"/>
+<circle cx="90" cy="80" r="5" fill="#00E5FF" opacity=".75"><animate attributeName="r" values="5;9;5" dur="2.0s" repeatCount="indefinite"/></circle><circle cx="1080" cy="75" r="4" fill="#FF4FD8" opacity=".75"><animate attributeName="r" values="4;8;4" dur="2.3s" repeatCount="indefinite"/></circle><circle cx="180" cy="260" r="4" fill="#8A5CFF" opacity=".75"><animate attributeName="r" values="4;8;4" dur="2.6s" repeatCount="indefinite"/></circle><circle cx="1010" cy="250" r="6" fill="#00D084" opacity=".75"><animate attributeName="r" values="6;10;6" dur="2.9s" repeatCount="indefinite"/></circle><circle cx="620" cy="55" r="3" fill="#FFFFFF" opacity=".75"><animate attributeName="r" values="3;7;3" dur="3.2s" repeatCount="indefinite"/></circle>
+<text x="600" y="75" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-weight="800" font-size="34">AI LAB</text>
+<text x="600" y="112" text-anchor="middle" fill="#9DA7B3" font-family="JetBrains Mono,monospace" font-size="15">Models • LLMs • RAG • Agents • Intelligent Systems</text>
+<path d="M70 145 H1130" stroke="#243040" stroke-width="1"/>
+<g transform="translate(160,185)">
+          <rect width="170" height="58" rx="16" fill="#0D1117" stroke="url(#line)" stroke-width="2"/>
+          <text x="85" y="36" text-anchor="middle" fill="white" font-family="JetBrains Mono,monospace" font-size="14">DATA</text>
+          <circle cx="12" cy="12" r="4" fill="#00D084"><animate attributeName="opacity" values="1;.25;1" dur="1.3s" repeatCount="indefinite"/></circle>
+        </g><path d="M330 214 H350" stroke="url(#line)" stroke-width="3" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1s" repeatCount="indefinite"/></path><g transform="translate(365,185)">
+          <rect width="170" height="58" rx="16" fill="#0D1117" stroke="url(#line)" stroke-width="2"/>
+          <text x="85" y="36" text-anchor="middle" fill="white" font-family="JetBrains Mono,monospace" font-size="14">LLM</text>
+          <circle cx="12" cy="12" r="4" fill="#00D084"><animate attributeName="opacity" values="1;.25;1" dur="1.3s" repeatCount="indefinite"/></circle>
+        </g><path d="M535 214 H555" stroke="url(#line)" stroke-width="3" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1s" repeatCount="indefinite"/></path><g transform="translate(570,185)">
+          <rect width="170" height="58" rx="16" fill="#0D1117" stroke="url(#line)" stroke-width="2"/>
+          <text x="85" y="36" text-anchor="middle" fill="white" font-family="JetBrains Mono,monospace" font-size="14">RAG</text>
+          <circle cx="12" cy="12" r="4" fill="#00D084"><animate attributeName="opacity" values="1;.25;1" dur="1.3s" repeatCount="indefinite"/></circle>
+        </g><path d="M740 214 H760" stroke="url(#line)" stroke-width="3" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1s" repeatCount="indefinite"/></path><g transform="translate(775,185)">
+          <rect width="170" height="58" rx="16" fill="#0D1117" stroke="url(#line)" stroke-width="2"/>
+          <text x="85" y="36" text-anchor="middle" fill="white" font-family="JetBrains Mono,monospace" font-size="14">AGENT</text>
+          <circle cx="12" cy="12" r="4" fill="#00D084"><animate attributeName="opacity" values="1;.25;1" dur="1.3s" repeatCount="indefinite"/></circle>
+        </g><path d="M945 214 H965" stroke="url(#line)" stroke-width="3" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1s" repeatCount="indefinite"/></path><g transform="translate(980,185)">
+          <rect width="170" height="58" rx="16" fill="#0D1117" stroke="url(#line)" stroke-width="2"/>
+          <text x="85" y="36" text-anchor="middle" fill="white" font-family="JetBrains Mono,monospace" font-size="14">ACTION</text>
+          <circle cx="12" cy="12" r="4" fill="#00D084"><animate attributeName="opacity" values="1;.25;1" dur="1.3s" repeatCount="indefinite"/></circle>
+        </g>
+<text x="600" y="295" text-anchor="middle" fill="#00E5FF" font-family="JetBrains Mono,monospace" font-size="13">
+  <animate attributeName="opacity" values=".45;1;.45" dur="2.5s" repeatCount="indefinite"/>
+  SYSTEM FLOW • LIVE VISUALIZATION • BUILDING
+</text>
+</svg>
