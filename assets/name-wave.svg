@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="110" viewBox="0 0 860 110" role="img" aria-label="DINESH TIMILSENA">
+  <style>
+    text { font-family: 'JetBrains Mono', 'Consolas', 'Courier New', monospace; font-size: 52px; font-weight: 700; fill: #00E5FF; }
+  </style>
+  <g transform="translate(10, 72)">
+    <text x="0"    transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0s" repeatCount="indefinite"/>D</text>
+    <text x="36"   transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.08s" repeatCount="indefinite"/>I</text>
+    <text x="72"   transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.16s" repeatCount="indefinite"/>N</text>
+    <text x="108"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.24s" repeatCount="indefinite"/>E</text>
+    <text x="144"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.32s" repeatCount="indefinite"/>S</text>
+    <text x="180"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.40s" repeatCount="indefinite"/>H</text>
+    <text x="234"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.48s" repeatCount="indefinite"/>T</text>
+    <text x="270"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.56s" repeatCount="indefinite"/>I</text>
+    <text x="306"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.64s" repeatCount="indefinite"/>M</text>
+    <text x="356"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.72s" repeatCount="indefinite"/>I</text>
+    <text x="392"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.80s" repeatCount="indefinite"/>L</text>
+    <text x="428"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.88s" repeatCount="indefinite"/>S</text>
+    <text x="464"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="0.96s" repeatCount="indefinite"/>E</text>
+    <text x="500"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="1.04s" repeatCount="indefinite"/>N</text>
+    <text x="536"  transform="translate(0,0)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -14; 0 0" dur="1.6s" begin="1.12s" repeatCount="indefinite"/>A</text>
+  </g>
+</svg>

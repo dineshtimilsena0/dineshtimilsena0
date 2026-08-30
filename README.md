@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Dinesh Timilsena — AI Engineering Command Center"/>
 
-<h1>⚡ DINESH TIMILSENA</h1>
+<img src="assets/name-wave.svg" width="860" alt="⚡ DINESH TIMILSENA"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=MLOps+Engineer+in+Progress;Data+Engineer+%7C+AI+Systems+Builder;Generative+AI+%7C+Agents+%7C+Automation;Exploring+Quantum+Computing+%26+Quantum+AI" alt="Typing animation"/>
 
