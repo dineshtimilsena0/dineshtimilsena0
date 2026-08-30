@@ -121,7 +121,7 @@ QUBITS → GATES → CIRCUITS → ALGORITHMS → QML → QUANTUM AI
 ## 🏆 ACHIEVEMENTS
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dineshtimilsena0&theme=transparent&no-frame=true&column=7&margin-w=8&title_color=00E5FF&icon_color=8A5CFF&text_color=FFFFFF&no-bg=true" width="100%" alt="GitHub profile trophies"/>
+<img src="https://trophy.ryglcloud.net/?username=dineshtimilsena0&theme=transparent&no-frame=true&column=7&margin-w=8&title_color=00E5FF&icon_color=8A5CFF&text_color=FFFFFF&no-bg=true" width="100%" alt="GitHub profile trophies"/>
 </p>
 
 ---
@@ -130,9 +130,9 @@ QUBITS → GATES → CIRCUITS → ALGORITHMS → QML → QUANTUM AI
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=dineshtimilsena0&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=3600&theme=transparent&bg_color=00000000&title_color=00E5FF&icon_color=8A5CFF&text_color=FFFFFF&rank_icon=github" alt="GitHub stats"/>
+<img height="175" src="https://gh-stats.com/stats/dineshtimilsena0/dark?include_all_commits=true&show_icons=true" alt="GitHub stats"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshtimilsena0&layout=compact&hide_border=true&cache_seconds=3600&theme=transparent&bg_color=00000000&title_color=00E5FF&text_color=FFFFFF" alt="Top languages"/>
+<img height="175" src="https://gh-stats.com/language-percent/dineshtimilsena0/dark?layout=compact" alt="Top languages"/>
 
 <br/><br/>
 
@@ -157,7 +157,7 @@ QUBITS → GATES → CIRCUITS → ALGORITHMS → QML → QUANTUM AI
 ## 📈 ACTIVITY STREAM
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshtimilsena0&bg_color=0D1117&color=00E5FF&line=8A5CFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://gh-stats.com/api/dineshtimilsena0" width="100%" alt="GitHub contribution activity"/>
 </p>
 
 ---
