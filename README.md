@@ -116,6 +116,66 @@ QUBITS → GATES → CIRCUITS → ALGORITHMS → QML → QUANTUM AI
 
 </div>
 
+### 🖥️ Programming & Scripting
+
+| App | Used For |
+|---|---|
+| 🐍 **Python** | Primary language — ML pipelines, automation scripts, backend logic |
+| ⚙️ **C++** | Performance-critical code, algorithms, system-level programming |
+| 🔤 **C** | Fundamentals of computing, memory management, embedded basics |
+| 🐚 **Bash** | Shell scripting, CI/CD automation, server administration |
+
+### 🧠 AI & Machine Learning
+
+| App | Used For |
+|---|---|
+| 🔥 **PyTorch** | Deep learning research, model training, neural networks |
+| 📊 **TensorFlow** | Production ML models, deployment-ready training pipelines |
+| 🤗 **Hugging Face** | Transformers, LLMs, pre-trained models & fine-tuning |
+| 🔗 **LangChain** | LLM orchestration, AI agents, RAG pipelines |
+| 📈 **Scikit-learn** | Classical ML, experimentation, prototyping |
+
+### 🛠️ MLOps & DevOps
+
+| App | Used For |
+|---|---|
+| 🐳 **Docker** | Containerizing apps and ML models for reproducible deployments |
+| ☸️ **Kubernetes** | Orchestrating containers, scaling services in production |
+| 🔄 **GitHub Actions** | CI/CD workflows, automation pipelines (like the snake on this profile) |
+| 📊 **MLflow** | Experiment tracking, model registry, ML lifecycle management |
+| 🗃️ **DVC** | Data & model versioning alongside Git |
+
+### ☁️ Cloud & Infrastructure
+
+| App | Used For |
+|---|---|
+| 🟠 **AWS** | Cloud compute, storage, managed ML services (SageMaker, S3, EC2) |
+| 🔵 **Azure** | Cloud services, Azure ML, enterprise integrations |
+| 🟡 **GCP** | Google Cloud AI tools, BigQuery, Vertex AI |
+| 🐧 **Linux** | Daily driver OS for servers, dev environments & deployments |
+
+### 🗄️ Databases & Data Engineering
+
+| App | Used For |
+|---|---|
+| 🐘 **PostgreSQL** | Relational data, analytical queries, production apps |
+| 🐬 **MySQL** | Relational databases, web application backends |
+| 🍃 **MongoDB** | NoSQL document storage, flexible schemas |
+| ⚡ **Redis** | Caching, real-time data, message brokering |
+| 🌊 **Apache Kafka** | Real-time data streaming & event pipelines |
+| ⏱️ **Apache Airflow** | Scheduling & orchestrating data pipelines (ETL/ELT) |
+| 💥 **Apache Spark** | Large-scale distributed data processing |
+| 🔢 **Pandas** | Data wrangling, analysis, quick experimentation |
+| 🔍 **SQL** | Querying, transforming and modeling structured data |
+
+### 🧰 Version Control & Collaboration
+
+| App | Used For |
+|---|---|
+| 🌿 **Git** | Version control for all code and experiments |
+| 🐙 **GitHub** | Hosting repos, open source, profile automation |
+| 📝 **Markdown** | Documentation (like this profile!) |
+
 ---
 
 ## 🐍 CONTRIBUTION MATRIX
