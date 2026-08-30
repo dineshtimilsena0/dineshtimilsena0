@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/⚙️_MLOps-EXPLORING-8A5CFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/⚛️_QUANTUM-RESEARCHING-FF4FD8?style=for-the-badge"/>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=dineshtimilsena0&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile views"/>
+
 </div>
 
 ---
@@ -114,17 +118,25 @@ QUBITS → GATES → CIRCUITS → ALGORITHMS → QML → QUANTUM AI
 
 ---
 
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dineshtimilsena0&theme=transparent&no-frame=true&column=7&margin-w=8&title_color=00E5FF&icon_color=8A5CFF&text_color=FFFFFF&no-bg=true" width="100%" alt="GitHub profile trophies"/>
+</p>
+
+---
+
 ## 📡 LIVE GITHUB TELEMETRY
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=dineshtimilsena0&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=00E5FF&icon_color=8A5CFF&text_color=FFFFFF&rank_icon=github" alt="GitHub stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=dineshtimilsena0&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=3600&theme=transparent&bg_color=00000000&title_color=00E5FF&icon_color=8A5CFF&text_color=FFFFFF&rank_icon=github" alt="GitHub stats"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshtimilsena0&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=00E5FF&text_color=FFFFFF" alt="Top languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshtimilsena0&layout=compact&hide_border=true&cache_seconds=3600&theme=transparent&bg_color=00000000&title_color=00E5FF&text_color=FFFFFF" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=dineshtimilsena0&theme=transparent&hide_border=true&ring=00E5FF&fire=FF4D6D&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=dineshtimilsena0&cache_seconds=3600&theme=transparent&hide_border=true&ring=00E5FF&fire=FF4D6D&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub streak"/>
 
 </div>
 
